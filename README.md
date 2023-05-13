@@ -66,5 +66,11 @@ CD:
 . Start by talking about old-age mechanisms of writing commands onto script files and testing them in a separate environment and how this approach is being replaced by IaC. Similar to the codes written for other services, with the help of AWS, IaC allow developers to write, test and maintain infrastructure entities in a descriptive manner, using format such as JSON or YAML. This enable easier development and faster deployment of infrastructure changes.
 ## 14. Why Has DevOps gained prominence over the last few years?
 . ...
-## 15. 
+## 15. What are the benefits of using version control?
+. All team members are free to work on any file at anytime with the version control system. Later on, VCS allows the team to integrate all of the modifications into a single version.
+. The VCS ask to provide a brief summary of what was changed every time we save a new version of the project. We also get to examine exactly what was modified in the content of the file. As a result, we will be able to see who made what changes to the project.
+. inside the VCS, all the previous variants and versions are properly stored. We will be able to request any version at any moment, and we will be able to retrieve a snapshot of the entire project at our fingertips. 
+. A VCS that is distributed, such as GIT, lets all the team members retrieve a complete history of the project. This allows developers or other stakeholders to use the local Git repositories of any of the teammates even if the main server goes down at any point in time.
+## 16. Describe the branching strategies you have used.
+
 
