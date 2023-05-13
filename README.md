@@ -20,7 +20,7 @@ Deploy
 Operate
 Monitoring
 ## 6. Mentions some of the core benefit of DevOps
-### technicle benefits:
+### technicle benefits
 > Continuous software delivery
 > Less complex problems to manage
 > Early detection and faster correction of defects
@@ -37,4 +37,24 @@ CD:
 .Every change that pass the automated tests is deployed to production automatically
 . Make software development and release process faster and more robust
 . There is no explicit approval from a developer and requires a developed culture of monitoring
-## 8. 
+## 8. What is the role of configuration management in DevOps
+. Enables management of and changes to multiple systems.
+. Standardizes resouces configurations, which in turn, manage IT infrastructure.
+. It helps with the administration and management of multiple servers and maintain the integrity of the entire infrastructure.
+## 9. How does continuous monitoring help you maintain the entire architecture of the system?
+. Continuous monitoring in DevOps is the process of detecting, indentify and report any faults or threat in the entire infrastructure of the system.
+. Ensure that all services, applications, and resources are running in the servers properly.
+. Monitors the status of servers and determines if the applications are working correctly or not.
+. Enables continuous audit, transaction inspection, and control monitoring.
+## 10. What is the role of AWS in DevOps
+> AWS has the following role in DevOps:
+. Flexible services, provide ready-to-use, flexible services without the need to install or set up the software.
+. Build for scale: You can manage a single instance or scale to thousands using AWS services.
+. Automation: AWS lets you automate tasks and processes, giving you more time to innovate
+. Secure: using IAM, you can setup user permissions and policies.
+. Large partner ecosystem: AWS supports a large ecosystem of partners that integrate with and extend AWS services.
+## 11. Name three important DevOps KPIs
+. Meantime to failure recovery: This is a average time taken to recover from a failure.
+. Deployment frequency: The frequency in which the deployment occurs.
+. Percentage of failed deployments: The number of times the deployment fails.
+## 12. 
