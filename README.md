@@ -57,4 +57,14 @@ CD:
 . Meantime to failure recovery: This is a average time taken to recover from a failure.
 . Deployment frequency: The frequency in which the deployment occurs.
 . Percentage of failed deployments: The number of times the deployment fails.
-## 12. 
+## 12. Explain the term "Infrastructure as code" as it relate to configuration management.
+. Writing code to manage configuration, deployment, and automate provisioning.
+. Managing data centers with machine-readable definition files, rather than physical hardware configuration.
+. Ensuring all servers and other infrastructure components are provisioned consistently and effortlessly.
+. Administering cloud computing environments, also known as Infrastructure as a Service (IaaS)
+## 13. How is IaC implemented using AWS
+. Start by talking about old-age mechanisms of writing commands onto script files and testing them in a separate environment and how this approach is being replaced by IaC. Similar to the codes written for other services, with the help of AWS, IaC allow developers to write, test and maintain infrastructure entities in a descriptive manner, using format such as JSON or YAML. This enable easier development and faster deployment of infrastructure changes.
+## 14. Why Has DevOps gained prominence over the last few years?
+. ...
+## 15. 
+
